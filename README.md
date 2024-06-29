@@ -12,3 +12,12 @@ EN-US
 Hello everyone,
 
 It is a pleasure to share this repository with you. This project was created with the aim of facilitating ABAP development, providing tools and code snippets that can be used in the daily work of every developer.
+
+------------------
+Links:
+
+LinkedIn
+https://www.linkedin.com/in/guilherme-machado-81a38a230/
+
+GitHub
+https://github.com/guilherme-damacena/ABAP-365 ( you are here )
