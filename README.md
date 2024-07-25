@@ -20,7 +20,7 @@ LinkedIn
 https://www.linkedin.com/in/guilherme-machado-81a38a230/
 
 GitHub
-https://github.com/guilherme-damacena/ABAP-365 ( you are here )
+https://github.com/gui-machad/ABAP-365 ( you are here )
 
 Medium
 https://medium.com/@guilhermedamamachado0
